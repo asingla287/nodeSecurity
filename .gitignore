@@ -1,3 +1,25 @@
+<<<<<<< HEAD
+*.csv
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.DS_Store
+.idea
+.project
+.strong-pm
+coverage
+node_modules
+npm-debug.log
+.vs/
+=======
 # Logs
 logs
 *.log
@@ -59,3 +81,4 @@ typings/
 
 # next.js build output
 .next
+>>>>>>> e84852649630b484533854fd7f0b03b40d78f610
